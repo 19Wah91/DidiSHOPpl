@@ -20,7 +20,7 @@
         <h2>nashi bestselery</h2>
         <div class="gallery-container">
             <div class="product">
-                <img src="mask1.jpg" alt="Mask1">
+                <img src="mask1.jpg" alt="Mask 1">
                 <p>Mask Ocean X</p>
                 <span>1990 euro</span>
             </div>
