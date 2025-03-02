@@ -2,5 +2,5 @@
 
 document.getElementById('orderForm').addEventListener('submit', function(event) {
     event.preventDefault();
-    alert('Дякуємо за замовлення! Ми скоро зв’яжемося з вами.');
+    alert('Diakuyu za zamovlenia. My skoro zwiajemos z vami.');
 });
