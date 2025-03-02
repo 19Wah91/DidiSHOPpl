@@ -1,0 +1,6 @@
+3. script.js
+
+document.getElementById('orderForm').addEventListener('submit', function(event) {
+    event.preventDefault();
+    alert('Дякуємо за замовлення! Ми скоро зв’яжемося з вами.');
+});
