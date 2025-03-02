@@ -5,55 +5,55 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Маски для плавання</title>
+    <title>SHOP</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
     <header>
-        <h1>Професійні маски для плавання</h1>
-        <p>Зручні, стильні та надійні маски для будь-яких водних пригод!</p>
-        <a href="#order" class="btn">Замовити зараз</a>
+        <h1>Profession diving masks</h1>
+        <p>TOP SELL!</p>
+        <a href="#order" class="btn">BUY NOW</a>
     </header>
 
     <section class="gallery">
-        <h2>Наші бестселери</h2>
+        <h2>nashi bestselery</h2>
         <div class="gallery-container">
             <div class="product">
-                <img src="mask1.jpg" alt="Маска 1">
-                <p>Маска Ocean X</p>
-                <span>1990 грн</span>
+                <img src="mask1.jpg" alt="ГЊГ Г±ГЄГ  1">
+                <p>Mask Ocean X</p>
+                <span>1990 euro</span>
             </div>
             <div class="product">
-                <img src="mask2.jpg" alt="Маска 2">
-                <p>Маска Pro Dive</p>
-                <span>2490 грн</span>
+                <img src="mask2.jpg" alt="maska 2">
+                <p>Mask Pro Dive</p>
+                <span>2490 euro</span>
             </div>
             <div class="product">
-                <img src="mask3.jpg" alt="Маска 3">
-                <p>Маска Ultra Clear</p>
-                <span>2990 грн</span>
+                <img src="mask3.jpg" alt="Mask 3">
+                <p>Mask Ultra Clear</p>
+                <span>2990 euro</span>
             </div>
         </div>
     </section>
 
     <section id="order">
-        <h2>Оформити замовлення</h2>
+        <h2>Oformyty Zamovlenia</h2>
         <form id="orderForm">
-            <input type="text" placeholder="Ім'я та прізвище" required>
-            <input type="tel" placeholder="Телефон" required>
+            <input type="text" placeholder="Imia ta prizvishe" required>
+            <input type="tel" placeholder="Telefon" required>
             <select required>
-                <option value="">Оберіть модель</option>
+                <option value="">Oberit model</option>
                 <option value="Ocean X">Ocean X</option>
                 <option value="Pro Dive">Pro Dive</option>
                 <option value="Ultra Clear">Ultra Clear</option>
             </select>
-            <button type="submit">Замовити</button>
+            <button type="submit">zamovyty</button>
         </form>
     </section>
 
     <footer>
-        <p>© 2025 Маски для плавання | Всі права захищені</p>
+        <p>В© 2025 masy dlia plawania | Vsi prawa zahysheni</p>
     </footer>
 
     <script src="script.js"></script>
